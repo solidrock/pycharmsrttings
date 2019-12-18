@@ -1,0 +1,12 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-02-25T17:43:25</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-11-18T17:00:56</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="646e6e" />
+  </colors>
+</scheme>
