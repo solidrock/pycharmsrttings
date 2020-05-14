@@ -4,8 +4,8 @@
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Cr.DejaVuSansMono.YaHei" />
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Cascadia Code" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Fira Mono" />
   </component>
