@@ -4,7 +4,7 @@
     <property name="created">2017-08-15T08:13:03</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2017-08-15T08:13:56</property>
+    <property name="modified">2020-07-23T10:04:53</property>
     <property name="originalScheme">Material Theme - Palenight copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1151,17 +1151,42 @@
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
-    <option name="IGNORE.BRACKET" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="IGNORE.HEADER" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
-    <option name="IGNORE.NEGATION" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.SECTION" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="IGNORE.SLASH" baseAttributes="DEFAULT_COMMA" />
-    <option name="IGNORE.SYNTAX" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="IGNORE.BRACKET" baseAttributes="" />
+    <option name="IGNORE.COMMENT" baseAttributes="" />
+    <option name="IGNORE.HEADER" baseAttributes="" />
+    <option name="IGNORE.NEGATION" baseAttributes="" />
+    <option name="IGNORE.SECTION" baseAttributes="" />
+    <option name="IGNORE.SLASH" baseAttributes="" />
+    <option name="IGNORE.SYNTAX" baseAttributes="" />
+    <option name="IGNORE.VALUE" baseAttributes="" />
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="383c3e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="2f3c43" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="38334c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2c3a4a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="432935" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
