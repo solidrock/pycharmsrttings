@@ -4,7 +4,7 @@
     <property name="created">2017-08-15T08:13:03</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2020-07-23T10:08:17</property>
+    <property name="modified">2020-08-07T22:39:43</property>
     <property name="originalScheme">Material Theme - Palenight copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1151,14 +1151,6 @@
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
-    <option name="IGNORE.BRACKET" baseAttributes="" />
-    <option name="IGNORE.COMMENT" baseAttributes="" />
-    <option name="IGNORE.HEADER" baseAttributes="" />
-    <option name="IGNORE.NEGATION" baseAttributes="" />
-    <option name="IGNORE.SECTION" baseAttributes="" />
-    <option name="IGNORE.SLASH" baseAttributes="" />
-    <option name="IGNORE.SYNTAX" baseAttributes="" />
-    <option name="IGNORE.VALUE" baseAttributes="" />
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
