@@ -3,7 +3,7 @@
     <property name="created">2020-05-27T19:55:29</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-09-16T10:34:44</property>
+    <property name="modified">2020-09-16T10:36:00</property>
     <property name="originalScheme">Gruvbox Light Hard</property>
   </metaInfo>
   <colors>
@@ -565,22 +565,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f9f6cc" />
+        <option name="BACKGROUND" value="faf6c5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0f6d1" />
+        <option name="BACKGROUND" value="eaf6cc" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f9edda" />
+        <option name="BACKGROUND" value="fae7dc" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="edf4d8" />
+        <option name="BACKGROUND" value="e5f4da" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1022,7 +1022,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="76678" />
