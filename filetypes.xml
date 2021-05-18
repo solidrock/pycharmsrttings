@@ -2,15 +2,12 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="csv" type="CSV file" />
-      <mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping pattern=".prettierrc" type="JSON" />
-      <removed_mapping ext="tsv" type="TSV" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <mapping ext="yaml" type="YAML_EX" />
-      <mapping ext="yml" type="YAML_EX" />
+      <mapping ext="csv" type="CSV file" />
+      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="yaml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML_EX" />
+      <removed_mapping ext="yaml" type="YAML_EX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
